@@ -1,16 +1,33 @@
-### Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/mendesluca/7ccc5bf121b234957cf54cc13403d131/raw/0a622206dcf499ef800ba5047e3ddcacd0457efe/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Mendes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mendesluca&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**mendesluca/mendesluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Web Developer & Student in the area focused on Front-end
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript, HTML, CSS, React-Native, PHP**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/lucas-mendes-a675a7263/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LucasMendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+</p>
