@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendesluca&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer & Student in the area focused on Front-end
+- 🔥 Web Developer that loves apply his knowledge to solve problems
 
 - 🔭 I’m currently working as a freelancer
 
